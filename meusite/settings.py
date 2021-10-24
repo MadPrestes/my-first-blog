@@ -25,7 +25,7 @@ SECRET_KEY = '-#mtb^m-akou&bgsg4p+n147lvl+0jt_nek*-zqs3_&sqlqqm='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1' , '.pythonanywere.com', '192.168.5.198']
+ALLOWED_HOSTS = ['127.0.0.1' , 'madprestes.pythonanywhere.com']
 
 
 # Application definition
